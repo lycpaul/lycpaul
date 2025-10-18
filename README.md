@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Lycpaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=lycpaul&show_icons=true&include_all_commits=true)](https://github-readme-stats.vercel.app/api?username=lycpaul&show_icons=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lycpaul&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=lycpaul&layout=compact)
+[![Lycpaul's GitHub stats](https://github-readme-stats-nine-virid-55.vercel.app/api?username=lycpaul&show_icons=true&include_all_commits=true)](https://github-readme-stats-nine-virid-55.vercel.app/api?username=lycpaul&show_icons=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats-nine-virid-55.vercel.app/api/top-langs/?username=lycpaul&layout=compact)](https://github-readme-stats-nine-virid-55.vercel.app/api/top-langs/?username=lycpaul&layout=compact)
