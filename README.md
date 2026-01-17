@@ -1,5 +1,10 @@
 ## Hi there 👋
-Work in Progress...
+Poor profile, I know. Work in Progress!👷🏻
+
+[![Lycpaul's GitHub stats](https://github-readme-stats-nine-virid-55.vercel.app/api?username=lycpaul&show_icons=true&include_all_commits=true)](https://github-readme-stats-nine-virid-55.vercel.app/api?username=lycpaul&show_icons=true&include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats-nine-virid-55.vercel.app/api/top-langs/?username=lycpaul&layout=compact&hide=html)](https://github-readme-stats-nine-virid-55.vercel.app/api/top-langs/?username=lycpaul&layout=compact&hide=html)
+
 <!--
 **lycpaul/lycpaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +19,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Lycpaul's GitHub stats](https://github-readme-stats-nine-virid-55.vercel.app/api?username=lycpaul&show_icons=true)](https://github-readme-stats-nine-virid-55.vercel.app/api?username=lycpaul&show_icons=true)
-[![Top Langs](https://github-readme-stats-nine-virid-55.vercel.app/api/top-langs/?username=lycpaul&layout=compact)](https://github-readme-stats-nine-virid-55.vercel.app/api/top-langs/?username=lycpaul&layout=compact)
